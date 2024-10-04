@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking for help with learning all about frontend<br>🌱 I’m currently learning typescript<br>⚡ Fun fact i started my frontend journey in April 2024  
+🔭 I’m looking for help with learning all about frontend<br>⚡ Fun fact i started my frontend journey in April 2024  
 
 
 ## 🌐 Socials:
